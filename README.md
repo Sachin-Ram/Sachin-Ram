@@ -31,6 +31,6 @@ I'm a software developer with a passion for building innovative solutions. Welco
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sachin-ram-94418a226/) or shoot me an email at [your@email.com](mailto:sachinram2509@gmail.com). I'm always open to new opportunities, collaborations, and conversations!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sachin-ram-94418a226/) or shoot me an email at [Email](mailto:sachinram2509@gmail.com). I'm always open to new opportunities, collaborations, and conversations!
 
 Thanks for stopping by! 😊
