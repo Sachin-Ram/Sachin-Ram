@@ -2,8 +2,8 @@
 
 I'm a software developer with a passion for building innovative solutions. Welcome to my GitHub profile! Here's a little bit about me:
 
-- 🔭 I’m currently working on []
-- 🌱 I’m currently learning [CI/CD]
+- 🔭 I’m currently working on Notes api project and a MERN stack project
+- 🌱 I’m currently learning CI/CD
 - 💬 Ask me about Python, C, Java, HTML, CSS, JavaScript, React, Node.js, Django, Docker, PHP, RESTful API, or anything tech-related!
 - 📫 How to reach me: [Your Email](mailto:sachinram2509@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sachin-ram-94418a226/)
 - 😄 Pronouns: He/Him
