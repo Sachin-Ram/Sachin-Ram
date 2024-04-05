@@ -6,7 +6,6 @@ I'm a software developer with a passion for building innovative solutions. Welco
 - 🌱 I’m currently learning CI/CD
 - 💬 Ask me about Python, C, Java, PHP, RESTful API, or anything tech-related!
 - 📫 How to reach me: [Email](mailto:sachinram2509@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sachin-ram-94418a226/)
-- 😄 Pronouns: He/Him
 
 ## Skills and Technologies
 
