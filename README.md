@@ -2,7 +2,7 @@
 
 I'm a software developer with a passion for building innovative solutions. Welcome to my GitHub profile! Here's a little bit about me:
 
-- 🔭 I’m currently working on Notes api project and a MERN stack project
+- 🔭 I’m currently working on Notes api project
 - 🌱 I’m currently learning CI/CD
 - 💬 Ask me about Python, C, Java, PHP, RESTful API, or anything tech-related!
 - 📫 How to reach me: [Email](mailto:sachinram2509@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sachin-ram-94418a226/)
@@ -18,10 +18,6 @@ I'm a software developer with a passion for building innovative solutions. Welco
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frameworks and Libraries
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Other Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
